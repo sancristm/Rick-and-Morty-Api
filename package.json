@@ -1,0 +1,19 @@
+{
+  "name": "rick-and-morty-api",
+  "version": "1.0.0",
+  "description": "Rick and morty Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sancristm/Rick-and-Morty-Api.git"
+  },
+  "author": "Sancrist Mamboleo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sancristm/Rick-and-Morty-Api/issues"
+  },
+  "homepage": "https://github.com/sancristm/Rick-and-Morty-Api#readme"
+}
